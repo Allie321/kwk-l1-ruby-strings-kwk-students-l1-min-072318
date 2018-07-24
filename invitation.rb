@@ -1,5 +1,5 @@
-puts "Hi, what is your name?"
-name=gets.chomp
+puts "Hi, you've been invited to a part! What is your name?"
+your_name = gets.chomp
 puts "what is the party name"
 party_name=gets.chomp
 puts "what date should it be"
