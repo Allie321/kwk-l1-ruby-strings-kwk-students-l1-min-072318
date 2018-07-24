@@ -7,7 +7,7 @@ date=gets.chomp
 puts "what time is the party"
 time=gets.chomp
 puts "who is the host of this party"
-host=gets.chomp
+host_name=gets.chomp
 
 
 puts "Dear #{guest_name},
@@ -16,4 +16,4 @@ You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSV
  
 Sincerely,
  
-#{host}"
+#{host_name}"
