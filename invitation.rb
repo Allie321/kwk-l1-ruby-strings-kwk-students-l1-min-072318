@@ -1,4 +1,4 @@
-puts "Hi, you've been invited to a part! What is your name?"
+puts "Hi, you've been invited to a party! What is your name?"
 your_name = gets.chomp
 puts "what is the party name"
 party_name=gets.chomp
